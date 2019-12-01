@@ -1,0 +1,32 @@
+1,Michael Cera,Scott Pilgrim,Scott Pilgrim vs. the World
+2,Mary Elizabeth Winstead,Ramona Flowers,Scott Pilgrim vs. the World
+3,Kieran Culkin,Wallace Wells,Scott Pilgrim vs. the World
+4,Ellen Wong,Knives Chau,Scott Pilgrim vs. the World
+5,Jason Schwartzman,Gideon Graves,Scott Pilgrim vs. the World
+6,Gerard Butler,The Phantom,The Phantom of the Opera
+7,Emmy Rossum,Christine,The Phantom of the Opera
+8,Patrick Wilson,Raoul,The Phantom of the Opera
+9,Neil Patrick Harris,Billy,Doctor Horrible's Sing-Along Blog
+10,Nathan Fillion,Captain Hammer,Doctor Horrible's Sing-Along Blog
+11,Felicia Day,Penny,Doctor Horrible's Sing-Along Blog
+12,Guy Pearce,Leonard,Memento
+13,Carrie-Anne Moss,Natalie,Memento
+14,Joe Pantoliano,Teddy,Memento
+15,Hugh Jackman,Robert Angier,The Prestige
+16,Christian Bale,Alfred Borden,The Prestige
+17,David Bowie,Nikola Tesla,The Prestige
+18,Scarlett Johanssen,Olivia Wescombe,The Prestige
+19,Rebecca Hall,Sarah,The Prestige
+20,Michael Caine,Cutter,The Prestige
+21,Harrison Ford,Rick Deckard,Blade Runner
+22,Sean Young,Rachael,Blade Runner
+23,Rutger Hauer,Roy Batty,Blade Runner
+24,Matt Damon,Mark Watney,The Martian
+25,Donald Glover,Rich Purnell,The Martian
+26,Chiwetel Eijofor,Vincent Kapoor,The Martian
+27,Jessica Chastain,Melissa Lewis,The Martian
+28,Sebastian Stan,Chris Beck,The Martian
+29,Benedict Wong,Bruce Ng,The Martian
+30,Tim Curry,Dr. Frank-N-Furter,The Rocky Horror Picture Show
+31,Susan Sarandon,Janet Weiss,The Rocky Horror Picture Show
+32,Barry Bostwick,Brad Majors,The Rocky Horror Picture Show
